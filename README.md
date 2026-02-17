@@ -74,4 +74,8 @@ Lettres et Langues, Civilisation Etrangère, where I learned to speak Italian, w
 
 *What else am I doing when I'm not working or reading, or daydreaming about trying to write a book?*
 - 📚 Building a **book series tracker** — a reading companion app for managing sci-fi/fantasy series, with reading challenges and spoiler-safe progress tracking. The goal will be to expand this series tracker into a Media tracker - rendering a simple book app into a real second brain for books, tv-shows, movies, and other forms of media. *Ingenious, right ?* 
-- 🌍 Building a **mountain guessr game** - a game that serves mountain landscape challenges — each challenge is an image that must be pinpointed to its correct location on a map. Frontend currently in construction, one stone at a time. 
+- 🌍 Building a **mountain guessr game** - a game that serves mountain landscape challenges — each challenge is an image that must be pinpointed to its correct location on a map. Frontend currently in construction, one stone at a time.
+
+# *That's it, folks !* 👋
+
+If you want to contact me... don't. 
