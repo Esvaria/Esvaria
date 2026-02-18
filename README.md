@@ -1,4 +1,4 @@
-# *Hey, Listen !* I'm Marie-Esther 👋
+# *Hey, Listen !* I'm Esvaria 👋
 **IT developer @ EASILab · HES-SO Valais-Wallis**
 
 I've been on a computer for as long as I can remember. The first experience my small child brain can conjure is playing *Adibou* with my brothers and  watching them on windows 98 resolving maths problems with games *(Thanks, Dad, for introducing us to such wonders!)*.
