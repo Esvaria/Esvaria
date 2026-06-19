@@ -79,3 +79,4 @@ Lettres et Langues, Civilisation Etrangère, where I learned to speak Italian, w
 # *That's it, folks !* 👋
 
 If you want to contact me... don't. 
+Just kidding, here's my email: [esvaria007@gmail.com](mailto:esvaria007@gmail.com)
